@@ -1,2 +1,2 @@
 I got this example from this web page:
-https://github.com/noSemiColonVitor/TemplateDesignPattern.git
+https://www.tutorialspoint.com/design_pattern/template_pattern.htm
