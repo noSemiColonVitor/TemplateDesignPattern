@@ -86,7 +86,5 @@ nb-configuration.xml
 ##############################
 ## removing my assignments
 ##############################
-
-src/MyAssignment/After/
-Assignment.key
-Assignment.png
+src/MyAssignment/After/Assignment.key
+src/MyAssignment/After/Assignment.png
